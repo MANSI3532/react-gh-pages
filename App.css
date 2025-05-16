@@ -1,0 +1,35 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #f5f7fa;
+  margin: 0;
+  color: #333;
+}
+
+.header {
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.section {
+  margin: 40px auto;
+  padding: 20px;
+  max-width: 800px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+a {
+  color: #1e3c72;
+  text-decoration: none;
+}
+
+.footer {
+  background: #2a5298;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
